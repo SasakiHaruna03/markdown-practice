@@ -2,6 +2,8 @@
 markdownの練習用リポジトリ
 ## 概要
 README.mdの作成
+README.mdの編集
+
 ## ファイルの構成
 .
 └── README.md
