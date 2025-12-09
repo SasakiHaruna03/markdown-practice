@@ -28,9 +28,9 @@
 
 ### コミットの例
 ```
-<span style="color: red; ">git add .</span>
-<span style="color: red; ">git</span> commit -m<span style="color: green; ">"機能Aを追加"</span> 
-<span style="color: red; ">git</span> push origin main
+git add .
+git commit -m "機能Aを追加"
+git push origin main
 ```
 ## ブランチ戦略
 開発では以下のブランチを使い分けます。
@@ -47,9 +47,9 @@
 ***
 
 ## 学習チェックリスト
-- [x] リポジトリの作成ができる
-- [x] コミットができる
-- [X] ブランチの作成・切り替えができる
+- [x] ~~リポジトリの作成ができる~~
+- [x] ~~コミットができる~~
+- [X] ~~ブランチの作成・切り替えができる~~
 - [ ] コンフリクトの解消ができる
 - [ ] リベースを理解している
 
@@ -58,5 +58,5 @@
 
 ***
 ## メモ
-インラインコードは<span style="color: red; ">`git status`</span>のように書きます。  
+インラインコードは`git status`のように書きます。  
 *斜体* や **太字** も活用しましょう。
