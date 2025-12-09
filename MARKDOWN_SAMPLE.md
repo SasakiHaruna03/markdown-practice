@@ -27,7 +27,7 @@
 |`git pull`|リモートから取得・マージ|
 
 ### コミットの例
-```
+```bash
 git add .
 git commit -m "機能Aを追加"
 git push origin main
