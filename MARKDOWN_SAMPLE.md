@@ -54,7 +54,7 @@ git push origin main
 - [ ] リベースを理解している
 
 ## 参考画像
-![参考画像](image.png)
+![gitのロゴ画像](image.png)
 
 ***
 ## メモ
